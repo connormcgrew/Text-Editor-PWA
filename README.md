@@ -10,10 +10,8 @@
 
 
   ## Description <a name="description"></a>
-AS A developer
-I WANT to create notes or code snippets with or without an internet connection
-SO THAT I can reliably retrieve them for later use
-
+This app allows to you create notes or code snippets without having to worry about an internet connection. Aloowing you to reliably retrieve them wheneven you need them.
+![app](./Assets/deployedapp.png)
 ## Installation <a name="installation"></a>
 npm i, npm run build
 ## Usage <a name="usage"></a>
